@@ -1,6 +1,6 @@
 ﻿# Card-Design-e-commerce-Web-DESIGN
 
-## Instalado Fuentes
+## Instalando Fuentes
 ### Mak
 https://www.fontmirror.com/mak#google_vignette
 ### PP Neue Machine Inktrap
