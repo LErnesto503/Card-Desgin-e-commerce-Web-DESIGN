@@ -1,4 +1,4 @@
-﻿# Card-Desgin-e-commerce-Web-DESIGN
+﻿# Card-Design-e-commerce-Web-DESIGN
 
 ## Instalado Fuentes
 ### Mak
