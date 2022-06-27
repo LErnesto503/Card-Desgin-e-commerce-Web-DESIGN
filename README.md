@@ -9,7 +9,7 @@ https://pangrampangram.com/products/neue-machina
 https://befonts.com/monument-extended-font-family.html
 
 ## 1 -- Extraer archivo zip `Extraer Aquí`
-## 2 -- Seleciona los dos archivos `otf`
+## 2 -- Seleciona los archivos `otf`
 ## 3 -- Instalas `Instalar para todos los usuarios`
 
 
